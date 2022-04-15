@@ -1,4 +1,4 @@
-# MachinedPDEs
+# MachinedLearningDEs
 This code base serves to solve partial differential equations using machine 
 learning methods.  
 
